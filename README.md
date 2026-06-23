@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/114Osvf4MMC-MKV-y8GTzG_Y9c1OlXhqM?usp=sharing)
+
 # 🎙️ Emotion Recognition from Speech
 
 An deep learning project that recognizes human emotions from speech audio.
